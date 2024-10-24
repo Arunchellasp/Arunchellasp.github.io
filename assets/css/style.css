@@ -289,8 +289,8 @@ header .navbar ul li a:hover {
   font-size: 2rem;
   display: inline-block;
   line-height: 44px;
-  color: #00d9ff;
-  background-color: #09011b;
+  color: #dedede;
+  background-color: #c40feb;
   width: 44px;
   height: 44px;
   text-align: center;
@@ -307,7 +307,7 @@ header .navbar ul li a:hover {
   background-color: #0685da;
 }
 .social-icons a.github:hover {
-  background-color: #0e0e0e;
+  background-color: #c40feb;
 }
 .social-icons a.twitter:hover {
   background-color: #00aced;
